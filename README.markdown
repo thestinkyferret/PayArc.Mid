@@ -2,6 +2,13 @@
 
 **PayArc.Mid** is a WordPress plugin that acts as middleware to integrate the PayArc payment gateway’s vault system with [Subscriptions for WooCommerce Pro](https://wpswings.com/product/subscriptions-for-woocommerce-pro/) by WP Swings. It enables subscription-based payments by capturing card details, storing them in PayArc’s vault, and processing initial and renewal payments using vault IDs.
 
+
+
+CURRENTLY VERY WIP. NEEDS MAJOR CONFIGURATION CHANGES BEFORE IT CAN WORK : )
+
+
+
+
 ## Purpose
 
 This plugin addresses the challenge of using PayArc, which lacks native recurring tokenization, for subscription payments in WooCommerce. It:
